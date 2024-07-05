@@ -1,10 +1,12 @@
-## Equipe de Pesquisa e Produção de Artigos com IA
+## Minha Equipe de Pesquisa e Produção de Artigos com IA
+
+Sem dúvidas, o framework mais simples e intuitivo para utilizar modelos de linguagem e formar equipes que possam colaborar de forma eficiente na execução de tarefas mais complexas do que simplesmente interagir com o GPT.
 
 <a href="https://www.crewai.com/">
     <img src="https://i.imgur.com/0FllxzQ.png" alt="Image" width="18%" style="display: block; margin: 0 auto;">
 </a>
 
-Sem dúvidas, o framework mais simples e intuitivo para utilizar modelos de linguagem e formar equipes que possam colaborar de forma eficiente na execução de tarefas mais complexas do que simplesmente interagir com o GPT.
+
 
 ### Como funciona
 <a href="https://www.crewai.com/">
