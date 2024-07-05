@@ -4,7 +4,7 @@ from agents import create_agents
 from tasks import create_tasks
 from crewai import Crew
 from crewai_tools import DirectoryReadTool, FileReadTool, SerperDevTool, WebsiteSearchTool
-from langchain_community.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
 
 # Carregar variáveis de ambiente do arquivo .env
 load_dotenv()
