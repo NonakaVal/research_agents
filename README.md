@@ -6,9 +6,12 @@
 
 Sem dúvidas, o framework mais simples e intuitivo para utilizar modelos de linguagem e formar equipes que possam colaborar de forma eficiente na execução de tarefas mais complexas do que simplesmente interagir com o GPT.
 
+### Como funciona
 <a href="https://www.crewai.com/">
-    <img src="https://i.imgur.com/PV4JKSN.png" alt="Image" width="60%" style="display: block; margin: 0 auto;">
+    <img src="https://i.imgur.com/PV4JKSN.png" alt="Image" width="50%" style="display: block; margin: 0 auto;">
 </a>
+
+[Video Aula](https://www.youtube.com/watch?v=sPzc6hMg7So&t=1055s&ab_channel=codewithbrandon) 
 
 ### Funcionalidades
 #### Agentes e Ferramentas:
