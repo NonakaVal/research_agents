@@ -1,6 +1,6 @@
-# Agentes de Pesquisa e Produção de Artigos com e sobre IA
+## Equipe de Pesquisa e Produção de Artigos com IA
 
-- [crew-ai](https://www.crewai.com/)
+![Imgur](https://i.imgur.com/0FllxzQ.png)
 
 ## Funcionalidades
 ### Agentes e Ferramentas:
