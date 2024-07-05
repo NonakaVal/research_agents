@@ -1,0 +1,20 @@
+{
+    "research": {
+      "description": "Pesquisar as últimas tendências na indústria de IA e fornecer um resumo.",
+      "expected_output": "Um resumo dos 2 principais desenvolvimentos em tendência na indústria de IA com uma perspectiva única sobre sua importância."
+    },
+    "validate": {
+      "description": "Validar a precisão e a confiabilidade dos dados coletados na pesquisa.",
+      "expected_output": "Confirmação da precisão dos dados e correção de qualquer erro encontrado."
+    },
+    "review": {
+      "description": "Revisar o resumo, garantindo clareza, coerência e correção gramatical.",
+      "expected_output": "Um resumo polido e profissional pronto para ser transformado em conteúdo de alta qualidade."
+    },
+    "write_post": {
+      "description": "Escrever um post claro e conciso baseado nos dados pesquisados e validados.",
+      "expected_output": "Um post final capturando os principais pontos da pesquisa.",
+      "output_file": "articles/novo_post.md"
+    }
+  }
+  
