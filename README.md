@@ -1,4 +1,4 @@
-# Projeto de Pesquisa e Produção de Artigos com e sobre IA
+# Agentes de Pesquisa e Produção de Artigos com e sobre IA
 
 - [crew-ai](https://www.crewai.com/)
 
