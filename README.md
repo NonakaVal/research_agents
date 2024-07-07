@@ -6,15 +6,6 @@ Sem dúvidas, o framework mais simples e intuitivo para utilizar modelos de ling
     <img src="https://i.imgur.com/0FllxzQ.png" alt="Image" width="25%" style="display: block; margin: 0 auto;">
 </a>
 
-
-
-### Como funciona
-<a href="https://www.crewai.com/">
-    <img src="https://i.imgur.com/PV4JKSN.png" alt="Image" width="50%" style="display: block; margin: 0 auto;">
-</a>
-
-[Video Aula](https://www.youtube.com/watch?v=sPzc6hMg7So&t=1055s&ab_channel=codewithbrandon) 
-
 ### Funcionalidades
 #### Agentes e Ferramentas:
 Utiliza agentes automatizados para realizar tarefas específicas.
@@ -40,12 +31,6 @@ git clone https://github.com/NonakaVal/research_agents.git
 ```
 ```
 cd .\research_agents\
-```
-```
-python -m venv env 
-```
-```
-env\Scripts\activate
 ```
 ```
 python -m pip install --upgrade pip
