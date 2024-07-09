@@ -1,6 +1,6 @@
 ## Minha Equipe de Pesquisa e Produção de Artigos com IA
 
-powered by [crewAI](https://crewai.com) project.
+this is a [crewAI](https://crewai.com) project.
 
 Sem dúvidas, o framework mais simples e intuitivo para utilizar modelos de linguagem e formar equipes que possam colaborar de forma eficiente na execução de tarefas mais complexas do que simplesmente interagir com o GPT.
 
