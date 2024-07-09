@@ -100,6 +100,7 @@ BROWSERLESS_API_KEY=your_browserless_api_key
 <a href="https://www.crewai.com/">
     <img src="https://i.imgur.com/0FllxzQ.png" alt="Image" width="10%" style="display: block; margin: 0 auto;">
 </a>
+
 For support, questions, or feedback regarding the SelfDevelopment Crew or crewAI:
 - [documentation](https://docs.crewai.com)
 - [GitHub repository](https://github.com/joaomdmoura/crewai)
