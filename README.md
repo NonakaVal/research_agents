@@ -1,10 +1,8 @@
 ## Minha Equipe de Pesquisa e Produção de Artigos com IA
 
-Sem dúvidas, o framework mais simples e intuitivo para utilizar modelos de linguagem e formar equipes que possam colaborar de forma eficiente na execução de tarefas mais complexas do que simplesmente interagir com o GPT.
+powered by [crewAI](https://crewai.com) project.
 
-<a href="https://www.crewai.com/">
-    <img src="https://i.imgur.com/0FllxzQ.png" alt="Image" width="25%" style="display: block; margin: 0 auto;">
-</a>
+Sem dúvidas, o framework mais simples e intuitivo para utilizar modelos de linguagem e formar equipes que possam colaborar de forma eficiente na execução de tarefas mais complexas do que simplesmente interagir com o GPT.
 
 ### Funcionalidades
 #### Agentes e Ferramentas:
@@ -15,7 +13,22 @@ Utiliza agentes automatizados para realizar tarefas específicas.
 - Validação de dados coletados.
 - Revisão de conteúdo.
 - Produção de artigos e posts baseados em dados.
-- Estrutura do Projeto
+
+
+##  Estrutura do Projeto
+```
+pdf_summarizer/
+├── articles/
+│   └── output.md
+├── config/
+│   └── agents.json
+│   └── tasks.json 
+├── agents.py
+├── main.py
+├── tasks.py
+├── requirements.txt
+└── README.md
+```
 
 ## Passo a passo caso queira rodar esse meu projeto de estudo.
 
