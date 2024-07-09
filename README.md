@@ -68,6 +68,33 @@ BROWSERLESS_API_KEY=your_browserless_api_key
 1. Altere os aquivos `agents.json` e `tasks.json` na pasta `config/`.
 2. O resultado da sua pesquisa será criada no diretório  `articles/`
 
+#### Estrutura dos Prompts
+##### Agentes
+```json
+{
+  "senior_research_analyst": {
+    "role": "Analista Sênior de Pesquisa",
+    "goal": "Realizar pesquisas aprofundadas para coletar dados relevantes e insights que fundamentem a criação de resumos precisos.",
+    "backstory": "Especialista em investigação e análise de dados, com uma trajetória de fornecer informações valiosas para diversos projetos."
+  }
+}
+```
+- _role_ : Função do Agente
+- _goal_ : Objetivo
+- _backstory_ : Contexto/história de fundo
+
+##### Tarefas
+```json
+{
+    "research": {
+      "description": "Pesquisar as últimas tendências na indústria de IA e fornecer um resumo.",
+      "expected_output": "Um resumo dos 2 principais desenvolvimentos em tendência na indústria de IA com uma perspectiva única sobre sua importância."
+    }
+  }
+```
+- _description_ : Descrição do que precisa ser feito de forma consisa
+- _expected_output_ : Qual resultado esperado
+
     
 ## CrewAI Support and Documentations 
 For support, questions, or feedback regarding the SelfDevelopment Crew or crewAI:
