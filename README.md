@@ -17,7 +17,7 @@ Utiliza agentes automatizados para realizar tarefas específicas.
 
 ##  Estrutura do Projeto
 ```
-pdf_summarizer/
+research_agents/
 ├── articles/
 │   └── output.md
 ├── config/
