@@ -30,34 +30,55 @@ pdf_summarizer/
 └── README.md
 ```
 
-## Passo a passo caso queira rodar esse meu projeto de estudo.
+## Requisitos
+- Python 3.10 or higher
+- [Poetry](https://python-poetry.org/) for dependency management
+- An [OpenAI](https://platform.openai.com) API key
+- A [Serper](https://serper.dev/) API key
+- A [Browserless](https://www.browserless.io/) API key
 
-### Chaves de API
-- https://platform.openai.com
-- https://serper.dev/
-- https://www.browserless.io/
+## Uso e Testes
 
-### Windowns
-
-```
+1. Clone o Repositório:
+```sh
 git clone https://github.com/NonakaVal/research_agents.git
-```
-```
 cd .\research_agents\
 ```
-```
+2. Upgrade pip:
+```sh
 python -m pip install --upgrade pip
 ```
-```
+3. Instalar dependencias com requirements.txt
+```sh
 pip install -r requirements.txt
 ```
-```
+4. Configurar Chaves de API
+```sh
 setx SERPER_API_KEY "sua chave"
-```
-```
 setx OPENAI_API_KEY "sua chave"
 ```
-### Alterando Projeto 
-Para definir qual pesquisa os quatro agentes farão e de qual forma,  basta alterar os prompts dos arquivos _agent.json_ e _tasks.json_ presentes na pasta _config_
-e para saber mais acesse a [documentação](https://docs.crewai.com/).
+ou
+```.env
+SERPER_API_KEY=your_serper_api_key
+OPENAI_API_KEY=your_openai_api_key
+BROWSERLESS_API_KEY=your_browserless_api_key
+```
+### Configurando Agentes
+
+1. Altere os aquivos `agents.json` e `tasks.json` na pasta `config/`.
+2. O resultado da sua pesquisa será criada no diretório  `articles/`
+
+    
+## CrewAI Support and Documentations 
+For support, questions, or feedback regarding the SelfDevelopment Crew or crewAI:
+- [documentation](https://docs.crewai.com)
+- [GitHub repository](https://github.com/joaomdmoura/crewai)
+- [Join our Discord](https://discord.com/invite/X4JWnZnxPb)
+- [Chat with our docs](https://chatg.pt/DWjSBZn)
+
+
+<a href="https://www.crewai.com/">
+    <img src="https://i.imgur.com/0FllxzQ.png" alt="Image" width="15%" style="display: block; margin: 0 auto;">
+</a>
+
 
